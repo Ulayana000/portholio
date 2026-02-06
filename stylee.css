@@ -1,0 +1,74 @@
+body {
+    background-color: #f4f4f9;
+}
+h1 {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}
+header {
+    background-color: #d6d6da;
+}
+section {
+    background-color: #e6e6e9;
+}
+footer {
+    background-color: #cdcdcf;
+    text-align: center;
+}
+.information {
+    background-color: #f4f4f9;
+    text-align: right;
+}
+.exp {
+    text-align: right;
+    margin-top: -10 px;
+}
+img {
+    width: 500 px;
+    height: 500 px;
+}
+.info {
+    border-collapse: collapse;
+}
+tr, td {
+    text-align: left;
+    padding: 4 px;
+}
+.contact {
+    text-align: center;
+    font-size: 18 px;
+    padding: 3 px;
+    margin-top: -16 px;
+}
+.link {
+    margin-top: -15 px;
+    font-size: 16 px;
+}
+.link a {
+    margin: 0 10 px;
+}
+a {
+    color: black;
+    text-decoration: none;
+    font-family: italic;
+}
+a:hover {
+    color: #474747e3;
+}
+.photo {
+    position: relative;
+}
+.photo span {
+    display: none;
+    color: rgb (18, 33, 165);
+    font-weight: bold;
+    position: absolute;
+    top: 20 px;
+    left: 5 px;
+}
+.photo:hover span {
+    display: inline;
+
+}
+
+
