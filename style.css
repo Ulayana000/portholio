@@ -17,15 +17,18 @@ footer {
 }
 .information {
     background-color: #f4f4f9;
-    text-align: right;
+    margin-left: 400 px;
+    font-size: 30 px;
 }
 .exp {
-    text-align: right;
+    margin-left: 400 px;
     margin-top: -10 px;
+    font-size: 30 px;
 }
 img {
-    width: 500 px;
-    height: 500 px;
+    width: 300 px;
+    height: 300 px;
+    margin-left: 20 px;
 }
 .info {
     border-collapse: collapse;
@@ -36,9 +39,10 @@ tr, td {
 }
 .contact {
     text-align: center;
-    font-size: 18 px;
+    font-size: 25 px;
     padding: 3 px;
     margin-top: -16 px;
+    font-family: italic, bold;
 }
 .link {
     margin-top: -15 px;
@@ -50,7 +54,7 @@ tr, td {
 a {
     color: black;
     text-decoration: none;
-    font-family: italic;
+    font-family: italic, bold;
 }
 a:hover {
     color: #474747e3;
@@ -70,6 +74,7 @@ a:hover {
     display: inline;
 
 }
+
 
 
 
