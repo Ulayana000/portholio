@@ -70,12 +70,13 @@ a:hover {
     font-weight: bold;
     position: absolute;
     top: 10px;
-    left: 15px;
+    left: 20px;
 }
 .photo:hover span {
     display: inline;
 
 }
+
 
 
 
