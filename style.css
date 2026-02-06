@@ -83,12 +83,13 @@ a:hover {
     font-weight: bold;
     position: absolute;
     top: 10px;
-    left: 20px;
+    left: 60px;
 }
 .photo:hover span {
     display: inline;
 
 }
+
 
 
 
