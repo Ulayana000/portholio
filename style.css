@@ -1,22 +1,22 @@
 body {
-    background-color: #f4f4f9;
+    background-color: #d7ech5;
 }
 h1 {
     text-align: center;
     font-family: 'Arial', sans-serif;
 }
 header {
-    background-color: #d6d6da;
+    background-color: #85ceed;
 }
 section {
-    background-color: #e6e6e9;
+    background-color: #b0e2f7;
 }
 footer {
-    background-color: #cdcdcf;
+    background-color: #43646e;
     text-align: center;
 }
 .information {
-    background-color: #f4f4f9;
+    background-color: #b2e3f7;
     margin-left: 400px;
     font-size: 30px;
 }
@@ -26,8 +26,8 @@ footer {
     font-size: 30px;
 }
 img {
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     margin-left: 20px;
 }
 .info {
@@ -50,7 +50,7 @@ tr, td {
     font-size: 16px;
 }
 .link a {
-    margin: 0 10px;
+    margin: 0 20px;
 }
 a {
     color: black;
@@ -76,6 +76,7 @@ a:hover {
     display: inline;
 
 }
+
 
 
 
