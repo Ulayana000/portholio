@@ -59,14 +59,14 @@ a {
     font-weight: bolt;
 }
 a:hover {
-    color: #474747e3;
+    color: #a5c9cc;
 }
 .photo {
     position: relative;
 }
 .photo span {
     display: none;
-    color: rgb(18, 33, 165);
+    color: rgb(208, 244, 247);
     font-weight: bold;
     position: absolute;
     top: 10px;
@@ -76,6 +76,7 @@ a:hover {
     display: inline;
 
 }
+
 
 
 
