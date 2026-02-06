@@ -20,12 +20,12 @@ footer {
     margin-top: 500 px;
 }
 .exp {
-    margin-left: 200 px;
+    margin-left: 500 px;
     margin-top: -10 px;
 }
 img {
-    width: 200 px;
-    height: 200 px;
+    width: 500 px;
+    height: 500 px;
 }
 .info {
     border-collapse: collapse;
@@ -69,3 +69,4 @@ a:hover {
     display: inline;
 
 }
+
