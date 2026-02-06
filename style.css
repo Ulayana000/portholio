@@ -17,13 +17,13 @@ footer {
 }
 .information {
     background-color: #f4f4f9;
-    margin-left: 400 px;
-    font-size: 30 px;
+    margin-left: 400px;
+    font-size: 30px;
 }
 .exp {
-    margin-left: 400 px;
-    margin-top: -10 px;
-    font-size: 30 px;
+    margin-left: 400px;
+    margin-top: -10px;
+    font-size: 30px;
 }
 img {
     width: 200px;
@@ -35,26 +35,28 @@ img {
 }
 tr, td {
     text-align: left;
-    padding: 4 px;
+    padding: 4px;
 }
 .contact {
     text-align: center;
-    font-size: 25 px;
-    padding: 3 px;
-    margin-top: -16 px;
-    font-family: italic, bold;
+    font-size: 25px;
+    padding: 3px;
+    margin-top: -16px;
+    font-family: italic;
+    font-weight: bolt;
 }
 .link {
-    margin-top: -15 px;
-    font-size: 16 px;
+    margin-top: -15px;
+    font-size: 16px;
 }
 .link a {
-    margin: 0 10 px;
+    margin: 0 10px;
 }
 a {
     color: black;
     text-decoration: none;
-    font-family: italic, bold;
+    font-family: italic;
+    font-weight: bolt;
 }
 a:hover {
     color: #474747e3;
@@ -64,16 +66,17 @@ a:hover {
 }
 .photo span {
     display: none;
-    color: rgb (18, 33, 165);
+    color: rgb(18, 33, 165);
     font-weight: bold;
     position: absolute;
-    top: 10 px;
-    left: 15 px;
+    top: 10px;
+    left: 15px;
 }
 .photo:hover span {
     display: inline;
 
 }
+
 
 
 
