@@ -5,6 +5,17 @@ h1 {
     text-align: center;
     font-family: 'Arial', sans-serif;
     font-size: 54px;
+    margin: 10px;
+}
+h2, h3 {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}
+h2 {
+    font-size: 40px;
+}
+h2 {
+    font-size: 30px;
 }
 header {
     background-color: #85ceed;
@@ -78,6 +89,7 @@ a:hover {
     display: inline;
 
 }
+
 
 
 
