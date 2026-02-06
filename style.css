@@ -18,12 +18,12 @@ footer {
 .information {
     background-color: #b2e3f7;
     margin-left: 400px;
-    font-size: 30px;
+    font-size: 25px;
 }
 .exp {
     margin-left: 400px;
-    margin-top: -10px;
-    font-size: 30px;
+    margin-top: -20px;
+    font-size: 25px;
 }
 img {
     width: 300px;
@@ -76,6 +76,7 @@ a:hover {
     display: inline;
 
 }
+
 
 
 
