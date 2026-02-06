@@ -26,9 +26,9 @@ footer {
     font-size: 30 px;
 }
 img {
-    width: 300 px;
-    height: 300 px;
-    margin-left: 20 px;
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
 }
 .info {
     border-collapse: collapse;
@@ -74,6 +74,7 @@ a:hover {
     display: inline;
 
 }
+
 
 
 
