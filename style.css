@@ -29,11 +29,11 @@ footer {
 }
 .information {
     background-color: #b2e3f7;
-    margin-left: 400px;
+    margin-left: 450px;
     font-size: 25px;
 }
 .exp {
-    margin-left: 400px;
+    margin-left: 450px;
     margin-top: -20px;
     font-size: 25px;
 }
@@ -47,7 +47,7 @@ img {
 }
 tr, td {
     text-align: left;
-    padding: 4px;
+    padding: 0 10px;
 }
 .contact {
     text-align: center;
@@ -89,6 +89,7 @@ a:hover {
     display: inline;
 
 }
+
 
 
 
