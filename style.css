@@ -1,64 +1,76 @@
 body {
-    background-color: #d7ech5;
+    background-color: #f4f6f7;
 }
 h1 {
     text-align: center;
-    font-family: 'Arial', sans-serif;
-    font-size: 54px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 65px;
     margin: 10px;
-    color: #cddefa;
+    color: #2f3e50;
+    padding: 10px;
 }
 h2, h3 {
+    color: #6b7a8c;
     text-align: center;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 h2 {
+    padding-top: 20px;
     font-size: 40px;
 }
-h2 {
+h3 {
     font-size: 30px;
+    margin-top: -25px;
 }
 header {
-    background-color: #8db6c7;
+    background-color: #c8d7e0;
 }
 section {
-    background-color: #dch0f2;
+    background-color: #e0edf4;
+    margin-top: -20px;
 }
 footer {
-    background-color: #43646e;
+    background-color: #283644;
     text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .information {
-    background-color: #b2e3f7;
-    margin-left: 500px;
-    margin-top: -300px;
+    background-color: #b0d6dc;
+    padding-bottom: 20px;
     font-size: 25px;
 }
 .exp {
-    margin-left: 500px;
-    margin-top: -150px;
+    margin-top: 30px;
+    margin-left: 30px;
     font-size: 25px;
+    color: #2f3e50;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+table {
+    margin-left: 16px;
 }
 img {
     width: 400px;
     height: 400px;
-    margin-left: 50px;
+    margin-left: 80px;
 }
 .info {
     border-collapse: collapse;
+    margin-top: 30px;
 }
 tr, td {
     text-align: left;
-    padding: 0 10px;
+    padding: 5px 15px;
+    color: #2f3e50;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .contact {
     text-align: center;
     font-size: 25px;
     padding: 3px;
     margin-top: -16px;
-    font-family: italic;
     font-weight: bolt;
-    color: rgb(218, 241, 247);
+    color: #d8e2ea;
 }
 .link {
     margin-top: -15px;
@@ -68,29 +80,63 @@ tr, td {
     margin: 0 20px;
 }
 a {
-    color: rgb(218, 241, 247);
+    color: #d8e2ea;
     text-decoration: none;
     font-family: italic;
     font-weight: bolt;
+    font-size: 20px;
 }
 a:hover {
     color: #a5c9cc;
 }
 .photo {
     position: relative;
+    background-color: #b0d6dc;
 }
 .photo span {
     display: none;
     color: rgb(66, 135, 245);
     font-weight: bold;
     position: absolute;
-    top: 10px;
-    left: 60px;
+    top: 20px;
+    left: 100px;
 }
 .photo:hover span {
     display: inline;
 
 }
+.container {
+    display: flex;
+    margin-top: -20px;
+}
+.photo, .information {
+    flex: 1;
+    padding: 10px;
+    margin: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
