@@ -52,7 +52,7 @@ table {
 img {
     width: 400px;
     height: 400px;
-    margin-left: 80px;
+    text-align: center;
 }
 .info {
     border-collapse: collapse;
@@ -114,6 +114,7 @@ a:hover {
     padding: 10px;
     margin: 40px;
 }
+
 
 
 
