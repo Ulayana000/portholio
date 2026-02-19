@@ -67,15 +67,15 @@ tr, td {
 .contact {
     text-align: center;
     font-size: 25px;
-    padding: 20px;
-    margin-top: -12px;
+    padding: 30px;
+    margin-top: -5px;
     font-weight: bolt;
     color: #d8e2ea;
 }
 .link {
-    margin-top: -10px;
+    margin-top: -55px;
     font-size: 16px;
-    padding: 20px;
+    padding: 30px;
 }
 .link a {
     margin: 0 20px;
@@ -116,6 +116,7 @@ a:hover {
     padding: 10px;
     margin: 40px;
 }
+
 
 
 
