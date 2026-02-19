@@ -73,7 +73,7 @@ tr, td {
     color: #d8e2ea;
 }
 .link {
-    margin-top: -15px;
+    margin-top: -5px;
     font-size: 16px;
 }
 .link a {
@@ -115,6 +115,7 @@ a:hover {
     padding: 10px;
     margin: 40px;
 }
+
 
 
 
