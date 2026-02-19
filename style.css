@@ -68,7 +68,7 @@ tr, td {
     text-align: center;
     font-size: 25px;
     padding: 15px;
-    margin-top: -16px;
+    margin-top: -10px;
     font-weight: bolt;
     color: #d8e2ea;
 }
@@ -116,6 +116,7 @@ a:hover {
     padding: 10px;
     margin: 40px;
 }
+
 
 
 
